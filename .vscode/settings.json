@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://uninqfqq:l2VRTx0YyeVDntyo8FZ6SGh-Onh5u5ci@mahmud.db.elephantsql.com/uninqfqq",
+            "name": "my_database"
+        },
+        {
+            "previewLimit": 50,
+            "server": "mahmud.db.elephantsql.com",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://hhnjujnb:rDT2tbbis2tSHCYJYUdlH2mPKeVX0_BX@mahmud.db.elephantsql.com/hhnjujnb",
+            "name": "movie-theatre",
+            "database": "hhnjujnb",
+            "username": "hhnjujnb",
+            "password": "rDT2tbbis2tSHCYJYUdlH2mPKeVX0_BX"
+        }
+    ]
+}
